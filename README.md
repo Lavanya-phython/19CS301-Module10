@@ -17,6 +17,9 @@ STEP 6: Print the result.
 STEP 7 : Stop.
 ### Program:
 ```
+#Name:Lavanya S
+#Reg no:212222070017
+
 l = []
 n = int(input())
 for i in range(n):
@@ -56,6 +59,10 @@ STEP 7 : Print the result.
 STEP 8 : Stop.
 ### Program: 
 ```
+#Name:Lavanya S
+#Reg no:212222070017
+
+
 import collections
 def fun(n):
    stack = collections.deque([])
@@ -91,6 +98,10 @@ STEP 6: Append the even and unique elements in the stack.
 STEP 7: Print the result.
 ### Program:
 ```
+#Name:Lavanya S
+#Reg no:212222070017
+
+
 import collections
 stack = collections.deque([])
 n = int(input())
@@ -126,6 +137,10 @@ STEP 6 : Print the result.
 STEP 7 : Stop.
 ### Program:
 ```
+#Name:Lavanya S
+#Reg no:212222070017
+
+
 from multiprocessing import Queue
 queue = Queue()
 for i in range(4):
